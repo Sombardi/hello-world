@@ -1,2 +1,4 @@
 # hello-world
-hopefully i can learn how to use this
+I think I am getting the hang of this.
+
+This is kinda wild! Hopefully, it all works out.
